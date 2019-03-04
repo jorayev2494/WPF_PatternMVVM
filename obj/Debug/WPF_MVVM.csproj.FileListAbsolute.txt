@@ -1,0 +1,16 @@
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.exe.config
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.exe
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.csprojAssemblyReference.cache
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\App.g.cs
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.cache
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.lref
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\View\MainWindow.baml
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.g.resources
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.GenerateResource.cache
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.exe
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.pdb
+C:\Users\Jorayev2494\Source\Repos\WPF\MVVM\WPF_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
